@@ -1,5 +1,5 @@
 # Assembly_arbitrary_base_converter
-Arbitrary base converter writed in Assembly and C
+Arbitrary base converter wrote in Assembly and C
 
 ##How to use
 
